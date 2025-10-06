@@ -1,7 +1,3 @@
-Of course. Here is a professional, English-language README file in Markdown format for the Windows Service Controller utility you created.
-
------
-
 # Windows Service Controller
 
 A lightweight, command-line utility for starting and stopping Windows services. This tool is built with modern C++ and interacts directly with the Windows Service Control Manager (SCM) API, providing robust error handling and reliable state management.
